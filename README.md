@@ -1,10 +1,10 @@
 # Interior Design Project Management Application
 
-This project is a web application developed using the Laravel framework for managing interior design projects and their constituent products. It encompasses three main pages:
+This project is a web application developed using the Laravel framework for managing projects,categories and their constituent products. It encompasses three main pages:
 
 - **Projects**: Displays a table listing projects along with their associated products.
 - **Products**: Lists all the products, with an option to view detailed information and direct access to each product's details page. Additionally, it shows which project each product is associated with.
-- **Product Details**: Provides comprehensive information about a single product, including its description.
+- **Categories**: Lists all the categories and their associated products.
 
 ## Development
 
