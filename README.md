@@ -1,4 +1,4 @@
-# Interior Design Project Management Application
+# Project Management Application
 
 This project is a web application developed using the Laravel framework for managing projects,categories and their constituent products. It encompasses three main pages:
 
